@@ -1,8 +1,8 @@
 package-lock.json
 example
-node_modules
+#node_modules
 extras
-src
+#src
 __tests__
 .gitignore
 .npmignore
