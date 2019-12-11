@@ -6,10 +6,10 @@ src
 __tests__
 .gitignore
 .npmignore
-.eslintignore
-.eslintrc.js
+# .eslintignore
+# .eslintrc.js
 .vscode
 .circleci
-tsconfig.json
-tsconfig.types.json
-babel.config.js
+# tsconfig.json
+# tsconfig.types.json
+# babel.config.js
