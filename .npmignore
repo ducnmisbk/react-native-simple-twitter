@@ -1,15 +1,15 @@
 package-lock.json
 example
-#node_modules
+node_modules
 extras
-#src
+src
 __tests__
 .gitignore
 .npmignore
-.eslintignore
-.eslintrc.js
+# .eslintignore
+# .eslintrc.js
 .vscode
 .circleci
-tsconfig.json
-tsconfig.types.json
-babel.config.js
+# tsconfig.json
+# tsconfig.types.json
+# babel.config.js
